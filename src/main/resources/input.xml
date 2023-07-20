@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CstmrCdtTrfInitn>
+		<GrpHdr>
+			<MsgId>ABCDEFG090301</MsgId>
+			<CreDtTm>2013-08-28T17:12:44</CreDtTm>
+			<NbOfTxs>5</NbOfTxs>
+			<CtrlSum>43236.93</CtrlSum>
+			<InitgPty>
+				<Nm>John Doe Corporation</Nm>
+				<Id>
+					<OrgId>
+						<BICOrBEI>JOHNDOE99</BICOrBEI>
+					</OrgId>
+				</Id>
+			</InitgPty>
+		</GrpHdr>
+	</CstmrCdtTrfInitn>
+</Document>
